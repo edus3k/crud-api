@@ -1,0 +1,31 @@
+# Arquivos gerados automaticamente
+/node_modules
+.DS_Store
+npm-debug.log
+yarn-error.log
+
+# Dependências específicas de plataformas
+/android
+/ios
+
+# Arquivos de compilação
+*.log
+*.log.*
+*.stackdump
+/build
+.DS_Store
+
+# Arquivos de configuração específicos do editor/IDE
+.vscode
+.idea
+
+# Arquivos de configuração específicos do sistema operacional
+.DS_Store
+
+# Arquivos de configuração específicos do ambiente de desenvolvimento
+.env
+
+# Arquivos de cache e dados temporários
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
